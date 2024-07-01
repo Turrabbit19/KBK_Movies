@@ -76,8 +76,11 @@
 
                         <a class="collapse-item" href="{{ route("list-photo") }}">Ảnh</a>
                         <a class="collapse-item" href="{{ route("list-movie") }}">Phim</a>
-                        <a class="collapse-item" href="{{ route("list-coupon") }}">Mã giảm giá</a>
-
+                        <a class="collapse-item" href="{{ route("list-coupon") }}">Giảm giá</a>
+                        <a class="collapse-item" href="{{ route("list-seat-type") }}">Loại ghế</a>
+                        <a class="collapse-item" href="{{ route("list-room") }}">Phòng</a>
+                        <a class="collapse-item" href="{{ route("list-seat") }}">Ghế</a>
+                        <a class="collapse-item" href="{{ route("list-showtime") }}">Giờ chiếu</a>
                     </div>
                 </div>
             </li>
